@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MadMax/Downloads/kidney-disease-classification-MLFlow-DVC/mlruns/558404155000759936/02b1cbb48ece4611a44a22941dd478ae/artifacts
+end_time: 1772360779816
+entry_point_name: ''
+experiment_id: '558404155000759936'
+lifecycle_stage: active
+run_id: 02b1cbb48ece4611a44a22941dd478ae
+run_name: polite-bear-505
+run_uuid: 02b1cbb48ece4611a44a22941dd478ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772360766273
+status: 4
+tags: []
+user_id: MadMax
