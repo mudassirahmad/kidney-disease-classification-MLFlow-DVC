@@ -35,13 +35,21 @@ The end-to-end pipeline includes:
 ## Project Structure
 
 ├── config/ # Configuration files
+
 ├── src/ # Source code (pipeline components)
+
 ├── research/ # Experiment notebooks
+
 ├── artifacts/ # Generated outputs
+
 ├── dvc.yaml # DVC pipeline definition
+
 ├── params.yaml # Hyperparameters
+
 ├── app.py # Flask prediction app
+
 ├── main.py # Training pipeline entry point
+
 └── requirements.txt # Dependencies
 
 
